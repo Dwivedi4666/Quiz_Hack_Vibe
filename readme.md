@@ -8,7 +8,7 @@
 
 ## Steps to Run the Application:
 
-1 Install Extension: Download the Tampermonkey extension and upload the provided script into the Tampermonkey dashboard.
+1 Install Extension: Download the Tampermonkey extension and upload the provided script(temperMonkey.js) into the Tampermonkey dashboard.
 
 2 Start the Backend: Navigate to the backend directory and run npm start to initialize the server at http://localhost:3000/.
 
