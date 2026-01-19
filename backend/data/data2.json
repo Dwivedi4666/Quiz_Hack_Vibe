@@ -1,0 +1,52 @@
+[
+  {
+    "question": "What kinds of items can generics store, according to the robotics lab analogy?",
+    "options": [
+      {
+        "id": "6932cf8cfe108f369e181d0f",
+        "text": "Only strings",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932cf8cfe108f369e181d11",
+        "text": "Anything",
+        "explaination": "Generics allow us to store anything. Generics make the function flexible for any type."
+      },
+      {
+        "id": "6932cf8cfe108f369e181d10",
+        "text": "Only robot components",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932cf8cfe108f369e181d0e",
+        "text": "Only numbers",
+        "explaination": "Sorry! You are wrong!"
+      }
+    ]
+  },
+  {
+    "question": "Generics allow us to build universal, type-safe components that work with any data type—just like a universal toolbox in a robotics lab. How are Generics defined?",
+    "options": [
+      {
+        "id": "69394c08d1ea23dc0cdbf03f",
+        "text": "[T]",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "69394c08d1ea23dc0cdbf03e",
+        "text": "{T}",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "69394c08d1ea23dc0cdbf03d",
+        "text": "(T)",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "69394c08d1ea23dc0cdbf040",
+        "text": "<T>",
+        "explaination": "Generics are defined using <T>, just like labeling a locker with a generic tag that can change based on what we store inside."
+      }
+    ]
+  }
+]

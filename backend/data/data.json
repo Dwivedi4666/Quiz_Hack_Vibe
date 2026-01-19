@@ -1,0 +1,52 @@
+[
+  {
+    "question": "Which concept helps the system handle scalability when new book types (like comics) are added?",
+    "options": [
+      {
+        "id": "6932d512fe108f369e181de4",
+        "text": "Inheritance.",
+        "explaination": "Inheritance allows defining shared attributes in a base Book class while extending it for specific types, making the system scalable and reducing duplication."
+      },
+      {
+        "id": "6932d512fe108f369e181de3",
+        "text": "Manually duplicating code for every book type.",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932d512fe108f369e181de2",
+        "text": "Hardcoding book details.",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932d512fe108f369e181de1",
+        "text": "Switch statements.",
+        "explaination": "Sorry! You are wrong!"
+      }
+    ]
+  },
+  {
+    "question": "Which part of the code addresses safety in the web application according to the speaker?",
+    "options": [
+      {
+        "id": "6932d54dfe108f369e181de6",
+        "text": "The public getAllUnsold() method.",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932d54dfe108f369e181de7",
+        "text": "The constructor of the Book class.",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932d54dfe108f369e181de8",
+        "text": "The returnBook method.",
+        "explaination": "Sorry! You are wrong!"
+      },
+      {
+        "id": "6932d54dfe108f369e181de9",
+        "text": "The private checkout function.",
+        "explaination": "The private checkout method ensures that users cannot directly check out a book on their own, enforcing safety and proper control through the librarian or system logic."
+      }
+    ]
+  }
+]
